@@ -13,8 +13,11 @@
 <br>
 
 <h1 align="center">
-  <img alt="site" src="./Galeria/assets/animação.gif" />
+  <img height="300px" width="auto" alt="site" src="./assets/animação.gif" />
+  <img height="300px" width="auto" alt="mobile" src="./assets/mobile.gif">
 </h1>
+
+<br>
 
 ## 💻 Tecnologias utilizadas
   <div style="display: inline_block">
