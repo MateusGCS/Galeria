@@ -9,6 +9,7 @@
 - [X] Galeria com páginação.
 - [X] Bootstrap responsivo.
 - [X] Campo de search para imagens.
+- [X] Fotos carregadas da API disponibilizada pelo site Pexels.
  
 <br>
 
